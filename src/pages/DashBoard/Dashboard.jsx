@@ -1,7 +1,7 @@
 import React from 'react'
 import banner1 from "../../assets/New_folder/banner1.png"
 import banner2 from "../../assets/New_folder/banner2.png"
-import "./Dashboard.css"
+
 import { Card } from '../../Component/card/Card'
 import { ProductCard } from '../../Component/ProductCard/ProductCard'
 import img1 from "../../assets/New_folder/img1.png"
